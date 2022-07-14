@@ -1,3 +1,4 @@
+package sorting;
 public class sorting {
     public static void main (String[] args) {
         int []num = {3,2,5,3,7,4,9,0};

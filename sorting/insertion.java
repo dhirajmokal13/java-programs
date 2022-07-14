@@ -1,4 +1,6 @@
-public class practice {
+package sorting;
+
+public class insertion {
     public static void main(String[] args) {
         int arr[] = { 2, 3, 8, 4, 1, 7 };
         for (int i = 1; i < arr.length; i++) {
